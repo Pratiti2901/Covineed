@@ -129,9 +129,12 @@ margin-top: 5%;
     bottom: 450px;
     left: 550px;
 }
+.fa-map-marker-alt{
+  padding-left: 8%;
+}
 #download{
     position: relative;
-    left: 500px;
+    left: 620px;
     bottom: 570px;
 }
 .btn-dark{
