@@ -13,6 +13,7 @@ footer{
 body{
     background-color: transparent;
     font-family: 'Arvo', serif;
+	height:0px;
 }
 #nav{
     background-color:teal;
